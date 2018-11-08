@@ -9,8 +9,8 @@ The pipeline goes:
 3. Define and test hypothesis
 
 # Major Case Studies include 
-##1. Analysis of results of the 2015 FINA World Swimming Championships and The "Current Controversy" of the 2013 World Championships
-##2. Statistical seismology and the Parkfield region and Earthquakes and oil mining in Oklahoma
+## 1. Analysis of results of the 2015 FINA World Swimming Championships and The "Current Controversy" of the 2013 World Championships
+## 2. Statistical seismology and the Parkfield region and Earthquakes and oil mining in Oklahoma
 
 # Minor Case Studies include
 ## Fish sleep and bacteria growth: 
