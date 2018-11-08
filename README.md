@@ -13,7 +13,7 @@ The pipeline goes:
 ## 2. Statistical seismology and the Parkfield region and Earthquakes and oil mining in Oklahoma
 
 # Minor Case Studies include
-## Fish sleep and bacteria growth: 
+## Fish sleep and bacteria growth 
 
 
 [Certificate of Completion](https://www.datacamp.com/statement-of-accomplishment/course/2c67b749a784648f869436733da3d4cb9ff5334d)
